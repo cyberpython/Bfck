@@ -26,7 +26,7 @@
 
 #define PROGRAM_NAME "Bfck"
 #define VERSION_NUMBER "0.1"
-#define PROGRAM_INFO_MSG "A simple Brainf*ck interpreter witten in C.\nDistributed under the terms of the MIT license.\nCopyright © 2010 Georgios Migdos.\n"
+#define PROGRAM_INFO_MSG "A simple Brainf*ck interpreter witten in C.\nDistributed under the terms of the MIT license.\nCopyright © 2010 Georgios Migdos.\n\nUsage:\n\tbfck <input_file>\n"
 
 #define DATA_ARRAY_SIZE 30720 //30KB
 #define EXECUTION_FINISHED_MSG "\n\n--Execution finished.--\n"
